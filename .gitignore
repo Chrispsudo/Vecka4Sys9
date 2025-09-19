@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+
+# Others
+*.dbmdl
